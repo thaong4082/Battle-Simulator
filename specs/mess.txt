@@ -1,0 +1,27 @@
+F R
+B RLT
+F R
+C TR
+F L
+D RR
+D LL
+
+
+F R 
+F R
+F R
+F R
+F R
+F L
+F L
+F L
+F L
+F L
+F L 
+F L
+F T
+F T
+F T
+F T
+F T
+F T

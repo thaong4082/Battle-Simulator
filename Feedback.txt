@@ -1,0 +1,22 @@
+Overall grading
+----------------
+100/100
+----------------
+Functionality: 75/75
+	Excellent work
+	I liked the use systematic approach to crack the problems
+	Excellent use of built in features and functions
+	
+
+Organization and style: 10/10
+	OO design approach; coding style, comments, etc. 
+	---Impressive use of OO design, style, and commenting. 
+
+Extraordinary elements, creativity, and innovation: 10/10
+	Anything beyond the provided specification that makes your program stand out.
+	--- diligent use of priority queue ADT
+
+Readme files: 5/5
+	-- these were the best read me I have read so far
+	-- pair logs were excellent too.
+	-- you both became a team! Very impressive! 
